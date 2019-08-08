@@ -58,7 +58,7 @@ about-featured-image-alt: "Administration Building, University of Idaho"
 # see _data/map-config.csv for field display options
 latitude: 46.727485 #to determine center of map
 longitude: -117.014185 #to determine center of map
-zoom-level: 7 # zoom level for map 
+zoom-level: 10 # zoom level for map 
 
 # SUBJECT PAGE
 subjects-off: false # true / false, turns off subject generation to lower dev build time (then page doesn't work!)
