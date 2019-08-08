@@ -2,34 +2,34 @@
 
 # SITE SETTINGS
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: The Dog Rufus 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: collection-metadata # 
+metadata: thedogrufus # 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/dcnb/the-dog-rufus
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: pictures of my dog
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "dog pictures of devin becker dog rufus
 # keywords appear in meta tags
-keywords: "university of idaho, digital collections, digital humanities"
+keywords: "dog;fields;ball;"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: dcnb
 
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "objects/test011.jpg"
+home-banner-image: "objects/IMG_1294.jpg"
 # enter object-id of the above item in order to link to the featured image
-home-banner-image-objectid: test011 
+home-banner-image-objectid: Rufus004 
 # give title of the image for accessibility
-home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. 
+home-banner-image-title: Rufus
 # optional: add extra padding around collection title for a larger image feature
-home-title-y-padding: 5em 
+home-title-y-padding: 10em 
 # height of the carousel at the bottom of the home page; this is in px, but just enter a number (don't include "px"). Default is 300
 carousel-height: 500 
 # If you'd like to feature specific subjects on the front page, fill in the below with subjects and separate them by semi-color. 
